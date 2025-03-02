@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>JavaScript Basics</title>
+            <meta charset = "UTF-8">
+            <meta name = "author" content = "Hanna Faye M. Suyo">
+            <meta name = "keywords" content = "Lab Exercise 1">
+            <meta name = "date-submitted" content = "01/23/25">
+
+            <script src = "script.js"></script>
+        
+      </head>  
+</html>
